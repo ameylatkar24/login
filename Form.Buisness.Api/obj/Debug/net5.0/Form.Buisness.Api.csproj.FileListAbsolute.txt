@@ -1,0 +1,15 @@
+/Users/ameylatkar/MOBIFLIA/Form/Form.Buisness.Api/bin/Debug/net5.0/Form.Buisness.Api.deps.json
+/Users/ameylatkar/MOBIFLIA/Form/Form.Buisness.Api/bin/Debug/net5.0/Form.Buisness.Api.dll
+/Users/ameylatkar/MOBIFLIA/Form/Form.Buisness.Api/bin/Debug/net5.0/ref/Form.Buisness.Api.dll
+/Users/ameylatkar/MOBIFLIA/Form/Form.Buisness.Api/bin/Debug/net5.0/Form.Buisness.Api.pdb
+/Users/ameylatkar/MOBIFLIA/Form/Form.Buisness.Api/bin/Debug/net5.0/Form.Repository.Api.dll
+/Users/ameylatkar/MOBIFLIA/Form/Form.Buisness.Api/bin/Debug/net5.0/Form.Repository.Api.pdb
+/Users/ameylatkar/MOBIFLIA/Form/Form.Buisness.Api/obj/Debug/net5.0/Form.Buisness.Api.csprojAssemblyReference.cache
+/Users/ameylatkar/MOBIFLIA/Form/Form.Buisness.Api/obj/Debug/net5.0/Form.Buisness.Api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ameylatkar/MOBIFLIA/Form/Form.Buisness.Api/obj/Debug/net5.0/Form.Buisness.Api.AssemblyInfoInputs.cache
+/Users/ameylatkar/MOBIFLIA/Form/Form.Buisness.Api/obj/Debug/net5.0/Form.Buisness.Api.AssemblyInfo.cs
+/Users/ameylatkar/MOBIFLIA/Form/Form.Buisness.Api/obj/Debug/net5.0/Form.Buisness.Api.csproj.CoreCompileInputs.cache
+/Users/ameylatkar/MOBIFLIA/Form/Form.Buisness.Api/obj/Debug/net5.0/Form.Buisness.Api.csproj.CopyComplete
+/Users/ameylatkar/MOBIFLIA/Form/Form.Buisness.Api/obj/Debug/net5.0/Form.Buisness.Api.dll
+/Users/ameylatkar/MOBIFLIA/Form/Form.Buisness.Api/obj/Debug/net5.0/ref/Form.Buisness.Api.dll
+/Users/ameylatkar/MOBIFLIA/Form/Form.Buisness.Api/obj/Debug/net5.0/Form.Buisness.Api.pdb

@@ -1,0 +1,12 @@
+/Users/ameylatkar/MOBIFLIA/Form/Form.Repository.Api/bin/Debug/net5.0/Form.Repository.Api.deps.json
+/Users/ameylatkar/MOBIFLIA/Form/Form.Repository.Api/bin/Debug/net5.0/Form.Repository.Api.dll
+/Users/ameylatkar/MOBIFLIA/Form/Form.Repository.Api/bin/Debug/net5.0/ref/Form.Repository.Api.dll
+/Users/ameylatkar/MOBIFLIA/Form/Form.Repository.Api/bin/Debug/net5.0/Form.Repository.Api.pdb
+/Users/ameylatkar/MOBIFLIA/Form/Form.Repository.Api/obj/Debug/net5.0/Form.Repository.Api.csprojAssemblyReference.cache
+/Users/ameylatkar/MOBIFLIA/Form/Form.Repository.Api/obj/Debug/net5.0/Form.Repository.Api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ameylatkar/MOBIFLIA/Form/Form.Repository.Api/obj/Debug/net5.0/Form.Repository.Api.AssemblyInfoInputs.cache
+/Users/ameylatkar/MOBIFLIA/Form/Form.Repository.Api/obj/Debug/net5.0/Form.Repository.Api.AssemblyInfo.cs
+/Users/ameylatkar/MOBIFLIA/Form/Form.Repository.Api/obj/Debug/net5.0/Form.Repository.Api.csproj.CoreCompileInputs.cache
+/Users/ameylatkar/MOBIFLIA/Form/Form.Repository.Api/obj/Debug/net5.0/Form.Repository.Api.dll
+/Users/ameylatkar/MOBIFLIA/Form/Form.Repository.Api/obj/Debug/net5.0/ref/Form.Repository.Api.dll
+/Users/ameylatkar/MOBIFLIA/Form/Form.Repository.Api/obj/Debug/net5.0/Form.Repository.Api.pdb
