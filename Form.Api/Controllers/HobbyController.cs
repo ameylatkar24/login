@@ -43,6 +43,7 @@ namespace Form.Api.Controllers
         [HttpDelete("DeleteLoggedUsersHobby")]
         public async Task<IActionResult> DeleteProductById()
         {
+
             var value = (form)HttpContext.Items["form"];
             var id = value.Id;
             return Ok(await _repository.DeleteHobby(id));
